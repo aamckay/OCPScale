@@ -8,7 +8,7 @@ In the first phase, **Prepare**, we’ll walk through provisioning the required 
 - Provision required administrator roles in Azure AD
 - Set up the Windows Virtual Desktop tenant
 
-Lab 1: [Windows Virtual Desktop Prerequisties](Prepare-Lab01-Prerequisites.md)
+Lab 1: [Windows Virtual Desktop Prerequistes](Prepare-Lab01-Prerequisites.md)
 
 Lab 2: [Deploying Azure Infrastructure and AD-DS](Prepare-Lab02-Deploying-Azure-Infrastructure-and-AD-DS.md)
 
